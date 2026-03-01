@@ -100,7 +100,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #dec1f7;
+		background: #ffffff;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2707,7 +2707,7 @@ input, select, textarea {
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #f2849e;
+				background-color: #ffe6a9;
 			}
 
 			.tiles article.style2 > .image:before {
@@ -3328,6 +3328,7 @@ input, select, textarea {
 			}
 
 		}
+
 
 
 
