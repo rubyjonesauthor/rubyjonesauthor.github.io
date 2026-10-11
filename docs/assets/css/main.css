@@ -1865,6 +1865,10 @@ input, select, textarea {
 				background-color: rgba(242, 132, 158, 0.1);
 			}
 
+			ul.icons a {
+				border-bottom: none;
+			}
+
 /* List */
 
 	ol {
