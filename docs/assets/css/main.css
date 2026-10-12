@@ -2590,7 +2590,7 @@ input, select, textarea {
 			transition: transform 0.5s ease, opacity 0.5s ease;
 			position: relative;
 			width: calc(25% - 2.5em);
-			margin: 1.5em 0 0 1.5em;
+			margin: 2.5em 0 0 2.5em;
 		}
 
 			.tiles article > .image {
@@ -3119,13 +3119,13 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		padding: 0em 0 6em 0 ;
+		padding: 0em 0 4em 0 ;
 	}
 
 		@media screen and (max-width: 736px) {
 
 			#main {
-				padding: 0em 0 4em 0 ;
+				padding: 0em 0 2em 0 ;
 			}
 
 		}
