@@ -182,7 +182,7 @@ input, select, textarea {
 
 			h1 {
 				font-size: 2em;
-				margin: 0 0 0 0;
+				margin: 0 0 1em 0;
 			}
 
 		}
@@ -2769,7 +2769,7 @@ input, select, textarea {
 
 				.tiles article {
 					width: calc(50% - 1.25em);
-					margin: 1.25em 0 0 1.25em;
+					margin: 0.5em 0 0 0.5em;
 				}
 
 					.tiles article:hover > .image {
